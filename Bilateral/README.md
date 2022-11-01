@@ -1,5 +1,5 @@
 # Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </br>
-# Билатеральный бильтр
+# Билатеральный фильтр
 ## Содержимое репозитория и описание 
 ### Содержимое 
 * В файле .cpp и .h файлы библиотеки EasyBMP для работы с bmp изображениями</br>
